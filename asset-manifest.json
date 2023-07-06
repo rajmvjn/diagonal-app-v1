@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.caab5e18.css",
-    "main.js": "/react-gh-pages/static/js/main.6c0b6506.js",
-    "static/js/787.f4ecc835.chunk.js": "/react-gh-pages/static/js/787.f4ecc835.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.caab5e18.css.map": "/react-gh-pages/static/css/main.caab5e18.css.map",
-    "main.6c0b6506.js.map": "/react-gh-pages/static/js/main.6c0b6506.js.map",
-    "787.f4ecc835.chunk.js.map": "/react-gh-pages/static/js/787.f4ecc835.chunk.js.map"
+    "main.css": "/diagonal-app-v2/static/css/main.caab5e18.css",
+    "main.js": "/diagonal-app-v2/static/js/main.e887d1f7.js",
+    "static/js/787.f4ecc835.chunk.js": "/diagonal-app-v2/static/js/787.f4ecc835.chunk.js",
+    "index.html": "/diagonal-app-v2/index.html",
+    "main.caab5e18.css.map": "/diagonal-app-v2/static/css/main.caab5e18.css.map",
+    "main.e887d1f7.js.map": "/diagonal-app-v2/static/js/main.e887d1f7.js.map",
+    "787.f4ecc835.chunk.js.map": "/diagonal-app-v2/static/js/787.f4ecc835.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.caab5e18.css",
-    "static/js/main.6c0b6506.js"
+    "static/js/main.e887d1f7.js"
   ]
 }
